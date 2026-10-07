@@ -1,0 +1,12 @@
+{
+  "name": "Tracer — mesa de luz",
+  "short_name": "Tracer",
+  "description": "Use o celular como mesa de luz para desenhar.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
